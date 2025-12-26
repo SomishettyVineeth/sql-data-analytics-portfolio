@@ -12,3 +12,7 @@ This project focuses on cleaning a real-world layoffs dataset using SQL.
 - SQL
 - Excel
 - GitHub
+
+## Learning Source
+This project was implemented as part of guided learning using a sample dataset.
+All SQL queries were written, understood, and adapted by me.
